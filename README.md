@@ -1,5 +1,5 @@
 # Sentiment analysis of Twitter activity of various news outlets
-Sentiment analysis of the Tweets sent out by the following news organizations: 
+### Sentiment analysis of the Tweets sent out by the following news organizations: 
 * BBC
 * CBS
 * CNN
