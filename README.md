@@ -7,7 +7,7 @@
 * NPR
 * New York times 
 
-### Dependencies
+### Dependencies:
 * Python
 * Tweepy
 * JSON
