@@ -7,6 +7,8 @@
 * NPR
 * New York times 
 
+![Sentiment Analysis](overall.png)
+
 ### Dependencies:
 * Python
 * Tweepy
